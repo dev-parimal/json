@@ -1,0 +1,42 @@
+{
+    "studehnts":[
+    
+        {
+            "name" : "Akash",
+            "age" : 27,
+            "cgpa" : 3.55,
+            "isRegistered" : true,
+            "language" :["Bengali", "English", "Spanish"],
+            "friends": [
+                {
+                    "name" : "Ruhul",
+                    "age" : 25
+                },
+                
+                {
+                    "name" : "Sajib",
+                    "age" : 23
+                }]
+                
+        },
+        
+        {
+            "name" : "Abir",
+            "age" : 29,
+            "cgpa" : 3.65,
+            "isRegistered" : false,
+            "language" :["Bengali", "English", "German"],
+            "friends": [
+                {
+                    "name" : "Ruhul",
+                    "age" : 25
+                },
+                
+                {
+                    "name" : "Sajib",
+                    "age" : 23
+                }]
+                
+        }
+        ]
+}
